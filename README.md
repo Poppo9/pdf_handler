@@ -41,7 +41,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/poppo9/pdf_handler.git
+   git clone https://github.com/Poppo9/pdf_handler.git
    cd pdf_handler
    ```
 
@@ -75,5 +75,5 @@
 
 ## 👤 Author
 
-**Created by:** \[Poppo9]
+**Created by:** Poppo9
 **Built with ❤️ using Streamlit and Python**
